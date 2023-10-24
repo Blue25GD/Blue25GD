@@ -9,7 +9,7 @@ I'm a student who is interested in programming and game development.
 
 > Check out my latest project:
 > 
-> *PROJECT NOT AVAILABLE YET*
+> [3D Rendering engine using OpenGL (LWJGL)](https://github.com/Blue25GD/3DRendering)
 
 ## ✨ Skills
 
