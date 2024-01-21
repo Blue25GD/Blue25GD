@@ -31,7 +31,7 @@ I'm a student who is interested in programming and game development.
 ## 👾 Software
 > What's on my computer?
 
-[![My Skills](https://skillicons.dev/icons?i=idea,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,figma,bash,babel,discord,bots,docker,gitlab,grafana)](https://skillicons.dev)
 
 - IDE: [JetBrains tools](https://jetbrains.com/)
 - Design Software: [Figma](https://figma.com)
