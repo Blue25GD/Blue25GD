@@ -9,7 +9,7 @@ I'm a student who is interested in programming and game development.
 
 > Check out my latest project:
 > 
-> [Préparer le BIA (LWJGL)](https://github.com/Blue25GD/preparer-le-bia)
+> [Préparer le BIA (LWJGL)](https://github.com/Blue25GD/plb)
 
 ## ✨ Skills
 
