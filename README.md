@@ -5,7 +5,7 @@
 </picture>
 
 # 👋 Hi, I'm Blue25.
-I'm a student who is interested in programming and game development.
+I'm a student who is interested in computer science and aviation.
 
 > Check out my latest project:
 > 
@@ -20,7 +20,7 @@ I'm a student who is interested in programming and game development.
 [![My Skills](https://skillicons.dev/icons?i=react,javascript,typescript,php,css,html,java)](https://skillicons.dev)
 
 - Web devlopment
-    - Preact/JSX
+    - React/JSX
     - Javascript/Typescript
     - PHP
 - UI/Graphic Design
